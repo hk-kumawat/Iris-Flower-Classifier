@@ -8,7 +8,7 @@ This project classifies iris flower species (Setosa, Versicolor, Virginica) usin
 
 ## Live Demo
 
-Take a look at my Iris flower classifier!👉🏻 [![Experience It! 🌟](https://img.shields.io/badge/Experience%20It!-blue)](https://iris-species-predictor.streamlit.app)
+Take a look at my Iris flower classifier! 👉🏻 [![Experience It! 🌟](https://img.shields.io/badge/Experience%20It!-blue)](https://iris-species-predictor.streamlit.app)
 
 <br>
 

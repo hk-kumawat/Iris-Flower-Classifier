@@ -79,7 +79,8 @@ Each model is evaluated using:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/hk-kumawat/irisflowerclassifier.git
+   https://github.com/hk-kumawat/Iris-Flower-Classifier.git
+   ```
 
 2. **Install dependencies**:
    ```bash

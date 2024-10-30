@@ -124,4 +124,4 @@ I'd love to hear from you! Whether you have a question, suggestions, a brilliant
 
 - [![GitHub](https://img.shields.io/badge/GitHub-hk--kumawat-blue?logo=github)](https://github.com/hk-kumawat) 💻 — Dive into my projects and contributions.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Kumawat-blue?logo=linkedin)](https://www.linkedin.com/in/harshal-kumawat/) 🌐 — Grow our professional network.
-- [![Email](https://img.shields.io/badge/Email-harshal.kumawat%40example.com-blue?logo=gmail)](mailto:harshal.kumawat@example.com) 📧 — Drop me an email for any detailed discussions.
+- [![Email](https://img.shields.io/badge/Email-harshal.kumawat%40example.com-blue?logo=gmail)](mailto:harshalkumawat100@gmail.com) 📧 — Drop me an email for any detailed discussions.

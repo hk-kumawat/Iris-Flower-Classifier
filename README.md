@@ -135,4 +135,4 @@ I'd love to hear from you! Whether you have a question, suggestions, a brilliant
 
 ## Thank you for exploring this project! 🌸
 
-> "Creativity is intelligence having fun." – Albert Einstein
+> In every seed, there is a promise of life. In every flower, a story waiting to be told. – Anonymous

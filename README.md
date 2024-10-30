@@ -74,27 +74,11 @@ Each model is evaluated using:
 - Logistic Regression and SVM achieved the highest scores (100% accuracy).
 
 ## Contact
-## Contact
 
-📬 **Get in Touch!**
+### 📬 Get in Touch!
+I'd love to hear from you! Whether you have a question, suggestions, a brilliant idea, or just want to connect! Feel free to reach out:
 
-Feel free to reach out if you have any questions, suggestions, or just want to connect! You can find me at:
-
-- **LinkedIn**: [Harshal Kumawat](https://www.linkedin.com/in/harshal-kumawat/) 🌐
-- **Email**: [harshal.kumawat@example.com](mailto:harshal.kumawat@example.com) ✉️
-
-## Contact
-
-### Let's Connect and Collaborate! 🚀
-
-I'd love to hear from you! Whether you have a question, a brilliant idea, or just want to say hello, feel free to reach out. Click the buttons below to connect with me:
 
 - [![GitHub](https://img.shields.io/badge/GitHub-hk--kumawat-blue?logo=github)](https://github.com/hk-kumawat) 💻 — Dive into my projects and contributions.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Kumawat-blue?logo=linkedin)](https://www.linkedin.com/in/harshal-kumawat/) 🌐 — Grow our professional network.
-- [![Twitter](https://img.shields.io/badge/Twitter-%40HarshalTweets-blue?logo=twitter)](https://twitter.com/HarshalTweets) 🐦 — Follow me for updates, insights, and tech thoughts.
-- [![Email](https://img.shields.io/badge/Email-harshal.kumawat%40example.com-blue?logo=gmail)](mailto:harshal.kumawat@example.com) 📧 — Drop me a line for any detailed discussions.
-
-### Let’s Create Something Amazing Together! ✨
-
-Your ideas and feedback are invaluable, and I'm always open to collaboration. Let's build the future together!
-
+- [![Email](https://img.shields.io/badge/Email-harshal.kumawat%40example.com-blue?logo=gmail)](mailto:harshal.kumawat@example.com) 📧 — Drop me an email for any detailed discussions.

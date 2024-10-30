@@ -14,7 +14,9 @@ Take a look at my Iris flower classifier! 👉🏻 [![Experience It! 🌟](https
 
 - _Below is a preview_of the Iris Flower Classifier in action. The app allows users to input the sepal and petal dimensions to predict the species of the Iris flower. Check out the sleek interface and accurate predictions!_ 👇🏻🪻
 
-![Screenshot 2024-10-30 134720](https://github.com/user-attachments/assets/57e2fef9-a067-4e98-8b24-7d6df5342b50)
+
+![Screenshot 2024-10-31 033404](https://github.com/user-attachments/assets/230ffc01-7457-4a8c-937f-0a7ee4c7801c)
+
 
 
 ## Table of Contents
@@ -126,3 +128,11 @@ I'd love to hear from you! Whether you have a question, suggestions, a brilliant
 - [![GitHub](https://img.shields.io/badge/GitHub-hk--kumawat-blue?logo=github)](https://github.com/hk-kumawat) 💻 — Dive into my projects and contributions.
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Kumawat-blue?logo=linkedin)](https://www.linkedin.com/in/harshal-kumawat/) 🌐 — Grow our professional network.
 - [![Email](https://img.shields.io/badge/Email-harshalkumawat100@.com-blue?logo=gmail)](mailto:harshalkumawat100@gmail.com) 📧 — Drop me an email for any detailed discussions.
+
+<br>
+
+---
+
+## Thank you for exploring this project! 🌸
+
+> "Creativity is intelligence having fun." – Albert Einstein

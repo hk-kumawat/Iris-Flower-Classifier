@@ -89,7 +89,7 @@ This project represents my journey into classical machine learning problems and 
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/hk-kumawat/Iris-Flower-Classifier.git
-   cd hk-kumawat-iris-flower-classifier
+   cd Iris-Flower-Classifier
    ```
 
 2. **Create & Activate a Virtual Environment (optional but recommended):**

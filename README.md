@@ -19,7 +19,7 @@ Take a look at my Iris flower classifier! 👉🏻 [![Experience It! 🌟](https
 
 <br>
 
-- _Below is a preview_of the Iris Flower Classifier in action. The app allows users to input the sepal and petal dimensions to predict the species of the Iris flower. Check out the sleek interface and accurate predictions!_ 👇🏻🪻
+ _Below is a preview_of the Iris Flower Classifier in action. The app allows users to input the sepal and petal dimensions to predict the species of the Iris flower. Check out the sleek interface and accurate predictions!_ 👇🏻🪻
 
 
 ![Screenshot 2024-10-31 033404](https://github.com/user-attachments/assets/230ffc01-7457-4a8c-937f-0a7ee4c7801c)
